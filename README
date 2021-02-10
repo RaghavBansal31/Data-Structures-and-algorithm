@@ -1,0 +1,24 @@
+This project was all about the Dijkstra’s shortest path algorithm,
+where it uses a min-heapof the vertices of the graph, where the key
+ value at a node is the currently known distance from the source to
+ the given node.  using this rule the project was conducted and heap
+ was used for memory allocation. also the difference beween heap and stack
+  is given to provide a better clarity. Also many if loops, for loops along
+  with the while loop were used. there are 11 files in this project including makefile and README file. All these files
+   fulfilling their own purpose are conducting the program.eap Allocation :
+    The memory is designated during execution of directions composed by coders.
+     Note that the name load has nothing to do with store information structure.
+      It is called load since it is a heap of memory space accessible to software
+       engineers to apportioned and de-allot. On the off chance that a developer
+       doesn't deal with this memory well, memory break can occur in the program. Factors
+        are holders for putting away information esteems. In C++, there are various sorts of factors.
+Stack Allocation : The distribution occurs on coterminous
+ squares of memory. We call it stack memory allotment in light
+  of the fact that the designation occurs in work call stack. The size
+   of memory to be allotted is known to compiler and at whatever point a capacity
+   is called, its factors get memory distributed on the stack. Furthermore, at whatever
+   point the capacity bring is finished, the memory for the factors is deallocated. This all happens
+   utilizing some predefined schedules in compiler. coders doesn't need to stress over memory portion and
+   deallocation of stack factors.
+
+The files are main.cpp, util.cpp, util.h, heap.h, heap.cpp, graph.cpp, graph.h, nc.cpp, nc.h README, makefile
